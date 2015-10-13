@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DigitalLiteracyTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login_acitivity">LoginAcitivity</string>
+    <string name="title_activity_register_form_acitvity">RegisterFormAcitvity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_novice_test">Novice_test</string>
+    <string name="title_activity_introduction">Introduction</string>
+</resources>
