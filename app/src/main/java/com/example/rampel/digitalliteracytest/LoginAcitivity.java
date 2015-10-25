@@ -81,5 +81,7 @@ public class LoginAcitivity extends ActionBarActivity {
         password = (EditText) findViewById(R.id.password_text);
         login = (Button) findViewById(R.id.log_in);
     }
+
+
 }
 

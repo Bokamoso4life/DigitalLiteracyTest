@@ -9,4 +9,5 @@
     <string name="title_activity_test">TestActivity</string>
     <string name="title_activity_novice_test">Novice_test</string>
     <string name="title_activity_introduction">Introduction</string>
+    <string name="title_activity_homebase">Homebase</string>
 </resources>
